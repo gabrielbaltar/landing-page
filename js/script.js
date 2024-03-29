@@ -2,7 +2,6 @@ const contactButton = document.querySelector(".contact");
 const collaborateButton = document.querySelector(".banner-button")
 const changeColorButton = document.querySelector(".change-color");
 const h1Page = document.querySelectorAll("h1");
-const paragraphTag = document.querySelectorAll("p");
 const bannerContainerParagraph = document.querySelector(".banner-container");
 const phoneNumberColor = document.querySelector(".phone-number");
 
