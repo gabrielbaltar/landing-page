@@ -46,7 +46,16 @@ body {
     border: 1px solid #B2B2B2;
     padding: 12px 24px;
     border-radius: 32px;
+    transition: .3s;
 }
+
+.contact-button-active #contact{
+    background-image: linear-gradient(to right, rgba(175, 241, 224, 1), rgba(84, 162, 249, 1));
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    transition: .3s;
+}
+
 .header-contact ul li:first-child {
     font-weight: 700;
     color: #000000;
@@ -105,6 +114,11 @@ body {
     font-weight: 700;
 }
 
+.banner-button-gradient a{
+    transition: .3s;
+    background-image: linear-gradient(to right, rgba(175, 241, 224, 1), rgba(84, 162, 249, 1));
+}
+
 .all-radio-button {
     display: flex;
     align-items: center;
@@ -149,6 +163,8 @@ body {
     padding: 0.5rem;
     border-radius: 50%;
 }
+
+
 
 @media screen and (max-width: 630px) {
     
