@@ -17,6 +17,30 @@ body {
     background-repeat: no-repeat;
 }
 
+.phone-number-color{
+    color: #ffffff;
+} 
+
+.change-color-body{
+    background-color: #BAB8FC;
+}
+
+.change-color-h1 {
+    color: #ffffff;
+}
+
+.change-color-h1 b{
+    color: #ffffff;
+}
+
+.change-color-paragraph {
+    color: #ffffff;
+}
+
+.paragraph-color #paragraph-1{
+    color: #ffffff;
+}
+
 .menu-container {
     display: flex;
     max-width: 1344px;
@@ -31,6 +55,10 @@ body {
 .header-logo img{
     display: flex;
     align-items: center;
+}
+
+.change-color {
+    cursor: pointer;
 }
 
 .header-contact ul{
