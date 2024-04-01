@@ -2,6 +2,6 @@
 
 # Landing Page
 
-[ACESSAR PÁGINA](https://gabrielbaltar.github.io/landing-page/);
+[ACESSAR PÁGINA](https://gabrielbaltar.github.io/landing-page/)
 
 </div>
